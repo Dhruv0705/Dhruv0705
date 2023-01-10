@@ -2,6 +2,8 @@
 
 ### Connect with me:
 
+<img align="left" alt="Instagram" width="26px" src="[https://raw.githubusercontent.com/FortAwesome/Font-Awesome/adb2273bdbff7abeff8f16dbde9e88722827f356/svgs/brands/instagram/blue.svg](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/instagram-dark.svg)" />
+
 
 ### Languages and Tools:
 
@@ -47,3 +49,5 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/dhruv-patel-0aba2823a/
 [github]: https://github.com/Dhruv0705
+[instagram]: https://www.instagram.com/dhruv_patel700/
+
