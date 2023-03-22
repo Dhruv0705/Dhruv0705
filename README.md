@@ -1,17 +1,21 @@
-### Hi there im Dhruv👋
+### Hi there, I'm Dhruv👋
 
 ### Connect with me:
 
-<img align="left" alt="Instagram" width="26px" src="[https://raw.githubusercontent.com/FortAwesome/Font-Awesome/adb2273bdbff7abeff8f16dbde9e88722827f356/svgs/brands/instagram/blue.svg](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/instagram-dark.svg)" />
+<img align="left" alt="Instagram" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/instagram.svg" style="padding-right:10px;"/>
 
+<br />
+---
 
 ### Languages and Tools:
 
-<img align="left" alt="Windows" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
+<img align="left" alt="Windows" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" sstyle="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -29,6 +33,10 @@
 <br />
 
 ---
+
+<img align="left" alt="Dhruv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dhruv0705&show_icons=true&hide_bordedr=true" />
+
+
 
 <!--
 **Dhruv0705/Dhruv0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
