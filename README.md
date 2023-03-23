@@ -1,5 +1,10 @@
 ### Hi there, I'm Dhruv👋
 
+## I'm a Student and a Developer based in Decatar, Alabama
+- 🔭 I’m currently working on data structure and algorithms
+- 🌱 I’m currently learning anything and everything
+- 👯 I’m looking to collaborate with other software developers
+- 📫 Connect with me below
 
 ### Connect with me:
 
