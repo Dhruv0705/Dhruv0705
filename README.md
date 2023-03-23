@@ -51,9 +51,15 @@
 ![visitors](http://visitor-badge.glitch.me/badge?page_id=Dhruv0705.Dhruv0705)
 
 <br>
-<img align="center" alt="Week Stats" src="https://wakatime.com/share/@Dhruv0705/0ab88af2-7920-4d9d-803c-dc9f77d63593.svg" style="margin:10px; padding:10px;" />
+<img align="center" alt="Week Stats"  width="500px" src="https://wakatime.com/share/@Dhruv0705/513c8db7-a924-40f8-b8fe-d5ee23cf0852.svg" style="margin:10px; padding:10px;" />
+
 <!--https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark-->
 <!--https://wakatime.com/share/@Dhruv0705/0ab88af2-7920-4d9d-803c-dc9f77d63593.svg-->
+
+<br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<br />
 
 <br>
 <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dhruv0705&theme=dark&show_icons=true&hide_border=false" style="margin:10px; padding:10px;"/>
