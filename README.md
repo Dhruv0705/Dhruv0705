@@ -1,5 +1,6 @@
 ### Hi there, I'm Dhruv👋
 
+
 ### Connect with me:
 
 [<img align="left" alt="Instagram" width="26px" src="https://www.citypng.com/public/uploads/preview/-51609193448mids70tdmp.png" style="padding-right:10px;"/>][instagram]
@@ -8,6 +9,7 @@
 [<img align="left" alt="Email" width="26px" src="https://www.citypng.com/public/uploads/preview/png-mail-email-address-round-outline-white-icon-11637079490wb440m0iml.png" style="padding-right:10px;"/>][email]
 
 <br />
+
 ---
 
 ### Languages and Tools:
@@ -29,15 +31,24 @@
 
 <img align="left" alt="Moodle" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Anaconda" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" />
+<img align="left" alt="Anaconda" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" style="padding-right:10px;"/>
 
-
-<br />
 <br />
 
 ---
 
-<img align="left" alt="Dhruv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dhruv0705&show_icons=true&hide_bordedr=true" />
+<br />
+<img align="left" alt="Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0705&layout=compact&theme=dark" />
+
+<br />
+<img align="left" alt="Week Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark"  />
+
+
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dhruv0705&theme=dark&show_icons=true&hide_border=false" />
+
+<br />
+<img align="left" alt="Readme Status" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruv0705&repo=React" />
+
 
 
 
