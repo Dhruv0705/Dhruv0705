@@ -54,7 +54,7 @@
   <img align="left" alt="Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0705&layout=compact&theme=dark" style="padding:10px; margin:10px;" />
 </a>
 <a>
-  <img align="center" alt="Week Stats" width="250px" src="https://wakatime.com/share/@Dhruv0705/0b678e48-1794-4ce3-9c4a-b2b5caeb450d.svg" style="padding:10px; margin:10px;"/>
+  <img align="center" alt="Week Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark" style="padding:10px; margin:10px;"/>
 </a>
 <a>
   <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dhruv0705&theme=dark&show_icons=true&hide_border=false" style="padding:10px; margin:10px;"/>
