@@ -1,8 +1,8 @@
 ### Hi there, I'm Dhruv👋
 
 ## I'm a Student and a Developer based in Decatar, Alabama
-- 🔭 I’m currently working on data structure and algorithms
-- 🌱 I’m currently learning anything and everything
+- 🔭 I’m currently working on data structure and algorithms and contributing into small projects
+- 🌱 I’m currently learning everything and anything
 - 👯 I’m looking to collaborate with other software developers
 - 📫 Connect with me below
 
@@ -48,7 +48,7 @@
 <br />
 <img align="left" alt="Week Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark"  />
 
-
+<br />
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dhruv0705&theme=dark&show_icons=true&hide_border=false" />
 
 <br />
