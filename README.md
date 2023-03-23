@@ -49,12 +49,6 @@
 <!--https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark-->
 <!--https://wakatime.com/share/@Dhruv0705/0ab88af2-7920-4d9d-803c-dc9f77d63593.svg-->
 
-<br>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-<br />
-
-
 <br >
 <a>
   <img align="left" alt="Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0705&layout=compact&theme=dark" style="padding:10px; margin:10px;" />
