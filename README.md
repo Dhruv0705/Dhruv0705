@@ -71,13 +71,16 @@
 
 
 
-
+<br>
 <br >
+<br />
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark" style="padding:10px; margin:10px;" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark" style="padding:10px; margin:10px;" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=dark" style="padding:10px; margin:10px;"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=dark" style="padding:10px; margin:10px;"/>
 </a>
 
 <br >
