@@ -43,24 +43,17 @@
 ---
 ### Stats:
 
-<br />
-
+<br>
 <img align="left" alt="Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0705&layout=compact&theme=dark" style="margin:10px; padding:10px;" />
 
 <br>
 
 ![visitors](http://visitor-badge.glitch.me/badge?page_id=Dhruv0705.Dhruv0705)
 
-<br />
 <br>
-
 <img align="center" alt="Week Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark" style="margin:10px; padding:10px;" />
 
 <br>
-<br />
-<br>
-
-
 <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dhruv0705&theme=dark&show_icons=true&hide_border=false" style="margin:10px; padding:10px;"/>
 
 
