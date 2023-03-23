@@ -52,6 +52,9 @@
 
 <br>
 
+<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dhruv0705&theme=dark&show_icons=true&hide_border=false" style="margin:10px; padding:10px;"/>
+
+<br />
 
 <img align="left" alt="Week Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark" style="margin:10px; padding:10px;" />
 
@@ -66,7 +69,7 @@
 
 <br>
 
-<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dhruv0705&theme=dark&show_icons=true&hide_border=false" style="margin:10px; padding:10px;"/>
+
 
 
 <br >
