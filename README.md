@@ -43,15 +43,8 @@
 ---
 ### Stats:
 
-<br>
-<img align="left" alt="Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0705&layout=compact&theme=dark" style="margin:10px; padding:10px;" />
-
-<br>
-
 ![visitors](http://visitor-badge.glitch.me/badge?page_id=Dhruv0705.Dhruv0705)
 
-<br>
-<img align="center" alt="Week Stats"  width="500px" src="https://wakatime.com/share/@Dhruv0705/513c8db7-a924-40f8-b8fe-d5ee23cf0852.svg" style="margin:10px; padding:10px;" />
 
 <!--https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark-->
 <!--https://wakatime.com/share/@Dhruv0705/0ab88af2-7920-4d9d-803c-dc9f77d63593.svg-->
@@ -61,16 +54,16 @@
 <!--END_SECTION:waka-->
 <br />
 
-<br>
-<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dhruv0705&theme=dark&show_icons=true&hide_border=false" style="margin:10px; padding:10px;"/>
-
 
 <br >
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark" style="padding:10px; margin:10px;" />
+<a>
+  <img align="left" alt="Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0705&layout=compact&theme=dark" style="padding:10px; margin:10px;" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=dark" style="padding:10px; margin:10px;"/>
+<a>
+  <img align="center" alt="Week Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark" style="padding:10px; margin:10px;"/>
+</a>
+<a>
+  <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dhruv0705&theme=dark&show_icons=true&hide_border=false" style="padding:10px; margin:10px;"/>
 </a>
 
 <br >
