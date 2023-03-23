@@ -51,6 +51,8 @@
 <br />
 <img align="left" alt="Week Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark" style="margin:10px; padding:10px;" />
 
+<br>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -59,7 +61,7 @@
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dhruv0705&theme=dark&show_icons=true&hide_border=false" style="margin:10px; padding:10px;"/>
 
 
-<br />
+<br >
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark" style="padding:10px; margin:10px;" />
 </a>
@@ -67,7 +69,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=dark" style="padding:10px; margin:10px;"/>
 </a>
 
-<br />
+<br >
    
 
 
