@@ -56,7 +56,7 @@
 
 <br />
 
-<img align="center" alt="Week Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark" style="margin:10px; padding:10px;" />
+<img align="right" alt="Week Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark" style="margin:10px; padding:10px;" />
 
 <br />
 
