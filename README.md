@@ -68,7 +68,7 @@
   <!--END_SECTION:waka-->
 
   
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark" />
+ <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark" /> -->
 
 <br />
 
