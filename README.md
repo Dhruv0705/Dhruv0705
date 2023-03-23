@@ -46,10 +46,10 @@
 <img align="left" alt="Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0705&layout=compact&theme=dark" />
 
 <br />
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dhruv0705&theme=dark&show_icons=true&hide_border=false" />
+<img align="left" alt="Week Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark"  />
 
 <br />
-<img align="left" alt="Week Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark"  />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dhruv0705&theme=dark&show_icons=true&hide_border=false" />
 
 
 <br />
