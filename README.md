@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="Instagram" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/instagram.svg" style="padding-right:10px;"/>
+[<img align="left" alt="Instagram" width="26px" src="https://www.citypng.com/public/uploads/preview/-51609193448mids70tdmp.png" style="padding-right:10px;"/>][instagram]
 
 <br />
 ---
