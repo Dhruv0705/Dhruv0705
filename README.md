@@ -58,18 +58,10 @@
 
 <img align="left" alt="Week Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark" style="margin:10px; padding:10px;" />
 
-
 <br />
-
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark" />
-
 <br />
-
-
-<br>
-
 
 <br>
 <br >
