@@ -56,22 +56,23 @@
 
 <br />
 
-
-
-<br />
-
-<br>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<br />
-
-
 <img align="left" alt="Week Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark" style="margin:10px; padding:10px;" />
 
+
+<br />
+
 <br>
 
+```md
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+```
+  
+
+<br />
+
+
+<br>
 
 
 <br>
