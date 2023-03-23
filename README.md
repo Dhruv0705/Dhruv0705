@@ -3,6 +3,9 @@
 ### Connect with me:
 
 [<img align="left" alt="Instagram" width="26px" src="https://www.citypng.com/public/uploads/preview/-51609193448mids70tdmp.png" style="padding-right:10px;"/>][instagram]
+[<img align="left" alt="Instagram" width="26px" src="https://www.citypng.com/public/uploads/preview/linkedin-square-white-icon-transparent-png-11640440452zi2ykndpw2.png" style="padding-right:10px;"/>][linkedin]
+
+[<img align="left" alt="Instagram" width="26px" src="https://www.citypng.com/public/uploads/preview/png-mail-email-address-round-outline-white-icon-11637079490wb440m0iml.png" style="padding-right:10px;"/>][email]
 
 <br />
 ---
@@ -58,4 +61,5 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/dhruv-patel-0aba2823a/
 [github]: https://github.com/Dhruv0705
 [instagram]: https://www.instagram.com/dhruv_patel700/
+[email]: mailto:dhruvpatel329@yahoo.com
 
