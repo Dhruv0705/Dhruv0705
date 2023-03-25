@@ -45,7 +45,6 @@
 
 ![visitors](http://visitor-badge.glitch.me/badge?page_id=Dhruv0705.Dhruv0705)
 
-
 <!--https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark-->
 <!--https://wakatime.com/share/@Dhruv0705/0ab88af2-7920-4d9d-803c-dc9f77d63593.svg-->
 
@@ -58,6 +57,12 @@
 </a>
 <a>
   <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dhruv0705&theme=dark&show_icons=true&hide_border=false" style="padding:10px; margin:10px;"/>
+</a>
+<a>
+  <img align="left" alt="Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruv0705&theme=dark" style="padding:10px; margin:10px;" />
+</a>
+<a>
+  <img align="left" alt="Used Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv0705&theme=dark" style="padding:10px; margin:10px;" />
 </a>
 
 <br >
