@@ -44,6 +44,7 @@
 ### Stats:
 
 ![visitors](http://visitor-badge.glitch.me/badge?page_id=Dhruv0705.Dhruv0705)
+![badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDhruv07051212%2Fhit-counter)
 
 <!--https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark-->
 <!--https://wakatime.com/share/@Dhruv0705/0ab88af2-7920-4d9d-803c-dc9f77d63593.svg-->
