@@ -8,10 +8,21 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Instagram" width="26px" src="https://www.citypng.com/public/uploads/preview/-51609193448mids70tdmp.png" style="padding-right:10px;"/>][instagram]
-[<img align="left" alt="Linkedin" width="26px" src="https://www.citypng.com/public/uploads/preview/linkedin-square-white-icon-transparent-png-11640440452zi2ykndpw2.png" style="padding-right:10px;"/>][linkedin]
+[<img align="left" alt="Instagram" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" style="padding-right:10px;"/>][instagram]
 
-[<img align="left" alt="Email" width="26px" src="https://www.citypng.com/public/uploads/preview/png-mail-email-address-round-outline-white-icon-11637079490wb440m0iml.png" style="padding-right:10px;"/>][email]
+<img align="left" alt="Facebook" width="26px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" style="padding-right:10px;"/>
+
+[<img align="left" alt="Linkedin" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="padding-right:10px;"/>][linkedin]
+
+<img align="left" alt="Indeed" width="26px" src="https://spirerecoverysolutions.com/wp-content/uploads/2020/04/Home-Icon-indeed-v2-300x300-1.png" style="padding-right:10px;"/>
+<img align="left" alt="Handshake" width="26px" src="https://joinhandshake.com/wp-content/themes/handshake/dist/assets/images/home/handshake-logo.png" style="padding-right:10px;"/> 
+<img align="left" alt="Ripplematch" width="46px" src="https://asset.brandfetch.io/id3MhcAKws/idAaZUpu_a.png" style="padding-right:10px;"/> 
+
+
+[<img align="left" alt="Email" width="26px" src="https://cdn-icons-png.flaticon.com/512/122/122940.png" style="padding-right:10px;"/>][email]
+
+
+
 
 <br />
 
