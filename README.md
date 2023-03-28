@@ -31,7 +31,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Windows" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
