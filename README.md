@@ -49,9 +49,11 @@
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/>][github]
 
 
+<!--
 <img align="left" alt="Moodle" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Anaconda" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" style="padding-right:10px;"/>
+-->
 
 <br />
 
