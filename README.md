@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on data structure and algorithms and contributing into small projects
 - 🌱 I’m currently learning everything and anything
 - 👯 I’m looking to collaborate with other software developers
+- 🤔 I'm currently looking for work in software engineer
 - 📫 Connect with me below
 
 ### Connect with me:
@@ -116,7 +117,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ....
 
 -->
 
