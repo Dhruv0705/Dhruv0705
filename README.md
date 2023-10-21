@@ -3,10 +3,15 @@
 ## I'm a Student and a Software Developer based in Alabama.
 - 🔭 I’m currently working on data structure and algorithms and contributing into small projects.
 - 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate with other software developers.
+- 👯 I’m looking to collaborate with other developers.
 - 🤔 I'm currently looking for work in software engineer.
+- 💬 Ask me about my personal projects and work.
 - ⚡ Fun fact I'm currently studying on learning day trading algorithms.
-- 📫 How to reach me: Connect with me below.
+- 📫 Connect with me below.
+
+## Education:
+- Graduated: Bachelor of Science in Applied Computer Science at Birmingham Southern College, 2019-2023.
+- Current: Master of Business Administration at Louisiana State University in Shreveport, 2023-2025.
 
 ### Connect with me:
 
