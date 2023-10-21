@@ -1,6 +1,6 @@
 ### Hi there, I'm Dhruv👋
 
-## I'm a Student and a Developer based in Decatar, Alabama
+## I'm a Student and a Software Developer based in Alabama.
 - 🔭 I’m currently working on data structure and algorithms and contributing into small projects
 - 🌱 I’m currently learning everything and anything
 - 👯 I’m looking to collaborate with other software developers
