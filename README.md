@@ -20,7 +20,7 @@
 
 [<img align="left" alt="Linkedin" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="padding-right:10px;"/>][linkedin]
 [<img align="left" alt="Indeed" width="26px" src="https://spirerecoverysolutions.com/wp-content/uploads/2020/04/Home-Icon-indeed-v2-300x300-1.png" style="padding-right:10px;"/>][indeed]
-[<img align="left" alt="Handshake" width="26px" src="https://joinhandshake.com/wp-content/themes/handshake/dist/assets/images/home/handshake-logo.png" style="padding-right:10px;"/>][handshake]
+<!--[<img align="left" alt="Handshake" width="26px" src="https://joinhandshake.com/wp-content/themes/handshake/dist/assets/images/home/handshake-logo.png" style="padding-right:10px;"/>][handshake]-->
 
 <img align="left" alt="Ripplematch" width="46px" src="https://asset.brandfetch.io/id3MhcAKws/idAaZUpu_a.png" style="padding-right:10px;"/> 
 
