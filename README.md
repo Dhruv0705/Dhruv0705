@@ -1,10 +1,10 @@
 ### Hi there, I'm Dhruv👋
 
-## I'm a Student a Software Developer and Proprietary Trader based in Alabama.
+## I'm a Student, Software Developer and Proprietary Trader based in Alabama.
 - 🔭 I’m currently working on data structure and algorithms and contributing into small projects.
 - 🌱 I’m currently learning day trading algorithms.
-- 👯 I’m looking to collaborate with other developers.
-- 🤔 I'm currently looking for work in software engineering or finance.
+<!-- 👯 I’m looking to collaborate with other developers.
+- 🤔 I'm currently looking for work in software engineering or finance. -->
 - 💬 Ask me about my personal projects and work.
 - 📫 Connect with me below.
 
