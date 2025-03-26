@@ -83,14 +83,15 @@
   <img align="left" alt="Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0705&layout=compact&theme=dark" style="padding:10px; margin:10px;" />
 </a>
 <a>
-  <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dhruv0705&theme=dark&show_icons=true&hide_border=false" style="padding:10px; margin:10px;"/>
-</a>
-<a>
   <img align="left" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv0705&theme=dark" style="padding:10px; margin:10px;" />
 </a>
 <a>
   <img align="left" alt="GitHub Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruv0705&theme=react-dark" style="padding:10px; margin:10px;" />
 </a>
+<!--
+<a>
+  <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dhruv0705&theme=dark&show_icons=true&hide_border=false" style="padding:10px; margin:10px;"/>
+</a>-->
 <br >
 
    
