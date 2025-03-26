@@ -33,7 +33,6 @@
 <img align="left" alt="Windows" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
@@ -43,22 +42,12 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-
-
-
 <img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Kubernetes" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Firebase" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-
-
-
-
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-
-
 
 <!--
 
@@ -100,15 +89,11 @@
   <img align="left" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv0705&theme=dark" style="padding:10px; margin:10px;" />
 </a>
 <a>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dhruv0705&theme=dark&show_icons=true&hide=issues,contribs" style="padding:10px; margin:10px;" />
+  <img align="left" alt="GitHub Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruv0705&theme=react-dark" style="padding:10px; margin:10px;" />
 </a>
-
-
 <br >
+
    
-
-
-
 <!--
 **Dhruv0705/Dhruv0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -124,7 +109,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ....
 
 -->
-
 
 
 [linkedin]: https://www.linkedin.com/in/dhruv-patel-0aba2823a/
