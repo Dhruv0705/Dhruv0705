@@ -80,10 +80,12 @@
 ---
 ### Stats:
 
-
+<!--
 ![visitors](http://visitor-badge.glitch.me/badge?page_id=Dhruv0705.Dhruv0705)
-
+![GitHub Hits](https://hits.dwyl.com/Dhruv0705/Dhruv0705.svg?style=flat-square)
 ![badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDhruv07051212%2Fhit-counter)
+-->
+![Profile Views](https://komarev.com/ghpvc/?username=Dhruv0705&color=blue&style=flat)
 [![wakatime](https://wakatime.com/badge/user/6c7187f5-9e5a-4428-83cb-f2b967f45d5b.svg)](https://wakatime.com/@6c7187f5-9e5a-4428-83cb-f2b967f45d5b)
 
 
@@ -92,19 +94,19 @@
 
 <br >
 <a>
-  <img align="left" alt="Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0705&layout=compact&theme=dark" style="padding:10px; margin:10px;" />
+  <img align="center" alt="Week Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark" style="padding:10px; margin:10px;"/>
 </a>
 <a>
-  <img align="center" alt="Week Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv0705&theme=dark" style="padding:10px; margin:10px;"/>
+  <img align="left" alt="Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0705&layout=compact&theme=dark" style="padding:10px; margin:10px;" />
 </a>
 <a>
   <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dhruv0705&theme=dark&show_icons=true&hide_border=false" style="padding:10px; margin:10px;"/>
 </a>
 <a>
-  <img align="left" alt="Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruv0705&theme=dark" style="padding:10px; margin:10px;" />
+  <img align="left" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv0705&theme=dark" style="padding:10px; margin:10px;" />
 </a>
 <a>
-  <img align="left" alt="Used Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv0705&theme=dark" style="padding:10px; margin:10px;" />
+  <img align="left" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruv0705&theme=dark&hide=email" style="padding:10px; margin:10px;" />
 </a>
 
 <br >
