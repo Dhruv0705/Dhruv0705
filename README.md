@@ -100,8 +100,9 @@
   <img align="left" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv0705&theme=dark" style="padding:10px; margin:10px;" />
 </a>
 <a>
-  <img align="left" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruv0705&theme=dark&hide=email" style="padding:10px; margin:10px;" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dhruv0705&theme=dark&show_icons=true&hide=issues,contribs" style="padding:10px; margin:10px;" />
 </a>
+
 
 <br >
    
