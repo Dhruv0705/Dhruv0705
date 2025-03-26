@@ -129,7 +129,7 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/dhruv-patel-0aba2823a/
 [github]: https://github.com/Dhruv0705
 [instagram]: https://www.instagram.com/dhruv_patel700/
-[email]: mailto:dhruvpatel329@yahoo.com
+<!--[email]: mailto:dhruvpatel329@yahoo.com-->
 [indeed]: https://profile.indeed.com/document/view
 [handshake]: https://app.joinhandshake.com/stu/users/21053236?buildFromResumeId=37315716
 
