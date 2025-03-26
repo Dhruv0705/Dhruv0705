@@ -1,40 +1,34 @@
 ### Hi there, I'm Dhruv👋
 
 ## I'm a Student, Software Developer and Proprietary Trader based in Alabama.
-- 🔭 I’m currently working on data structure and algorithms and contributing into small projects.
-- 🌱 I’m currently learning day trading algorithms.
-<!-- 👯 I’m looking to collaborate with other developers.
-- 🤔 I'm currently looking for work in software engineering or finance. -->
-- 💬 Ask me about my personal projects and work.
+- 🔭 Currently working on Data Structures & Algorithms, FiveM Development, and small projects.
+- 🌱 Learning Day Trading Algorithms and advanced financial modeling. 
+- 💬 Ask me about my projects, development work, or finance market insights.
 - 📫 Connect with me below.
+<!-- 👯 I’m looking to collaborate with other developers.
+🤔 I'm currently looking for work in software engineering or finance. -->
 
-## Education:
+## 🎓 Education:
 - Graduated: Bachelor of Science in Applied Computer Science at Birmingham Southern College, 2019-2023.
 - Current: Master of Business Administration at Louisiana State University in Shreveport, 2023-2025.
 
-### Connect with me:
+---
 
+### 🌍 Connect with me:
+<!--
 [<img align="left" alt="Instagram" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" style="padding-right:10px;"/>][instagram]
-
 <img align="left" alt="Facebook" width="26px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" style="padding-right:10px;"/>
-
 [<img align="left" alt="Linkedin" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="padding-right:10px;"/>][linkedin]
 [<img align="left" alt="Indeed" width="26px" src="https://spirerecoverysolutions.com/wp-content/uploads/2020/04/Home-Icon-indeed-v2-300x300-1.png" style="padding-right:10px;"/>][indeed]
-<!--[<img align="left" alt="Handshake" width="26px" src="https://joinhandshake.com/wp-content/themes/handshake/dist/assets/images/home/handshake-logo.png" style="padding-right:10px;"/>][handshake]-->
-
+<!--[<img align="left" alt="Handshake" width="26px" src="https://joinhandshake.com/wp-content/themes/handshake/dist/assets/images/home/handshake-logo.png" style="padding-right:10px;"/>][handshake]
 <img align="left" alt="Ripplematch" width="46px" src="https://asset.brandfetch.io/id3MhcAKws/idAaZUpu_a.png" style="padding-right:10px;"/> 
-
-
 [<img align="left" alt="Email" width="26px" src="https://cdn-icons-png.flaticon.com/512/122/122940.png" style="padding-right:10px;"/>][email]
-
-
-
-
+-->
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/632699596811927615)
 <br />
 
 ---
-
-### Languages and Tools:
+### ⚡ Languages and Tools:
 
 <img align="left" alt="Windows" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" style="padding-right:10px;" />
@@ -78,7 +72,7 @@
 <br />
 
 ---
-### Stats:
+### 📊 Stats & Activity:
 
 <!--
 ![visitors](http://visitor-badge.glitch.me/badge?page_id=Dhruv0705.Dhruv0705)
